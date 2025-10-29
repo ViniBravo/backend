@@ -1,0 +1,18 @@
+{
+  "name": "08-crud-pessoas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "moongose": "^1.0.0",
+    "nodemon": "^3.1.10"
+  }
+}
